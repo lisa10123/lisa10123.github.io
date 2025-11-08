@@ -1,5 +1,4 @@
-lisa10123.github.io/
-    index.html
-    images/
-        IMG_4445.jpeg
-        IMG_4446.jpeg
+<div class="top-images">
+  <img src="images/IMG_4445.jpeg" alt="AA Construction Logo">
+  <img src="images/IMG_4446.jpeg" alt="Computer Screen">
+</div>
